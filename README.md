@@ -95,8 +95,8 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 <br>
 
 **Problem:** Raw pharmacy claims data wasn't usable for reporting.  
-**Approach:** Designed a star-schema warehouse (fact table + 4 dimension tables) and built operational reporting on drug utilization, cost trends, and prescription recency.  
-**Result:** Reporting readiness improved by **80%** and reporting accuracy by **30%**.  
+**Approach:** Normalized the data to 3NF and designed a MySQL star-schema warehouse (1 fact table + 4 dimension tables) with primary/foreign keys, then built SQL reporting on drug utilization, cost by age segment, and latest fill per member using CTEs and window functions.  
+**Result:** A reporting-ready dimensional model with referential integrity. Found and fixed empty fill records that were inflating utilization counts.  
 
 [View repository →](https://github.com/QuietSignal-hub/pharmacy-claims-data-warehouse)
 </details>
@@ -105,9 +105,9 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 <summary><b>🎯 CRM Profiling & RFM Segmentation (YSSL Inc.)</b> &nbsp;·&nbsp; <code>Segmentation · Data Quality</code></summary>
 <br>
 
-**Problem:** 65,000+ grant records (2017–2025) with duplicates and no audience structure.  
-**Approach:** Consolidated records into a CRM-ready master table, integrated four external reference sources, built an RFM model, and added a source-validation layer.  
-**Result:** **24,350** unique profiles classified into **4** named audience segments for targeted outreach.  
+**Problem:** 65,000+ grant records (2017–2024) with duplicates and no audience structure.  
+**Approach:** Team capstone. My part: profiled and cleaned the source data, applied CPI inflation adjustment, built the RFM profiles and segments, wrote the data-quality and governance package, and built the source-validation layer in the app.  
+**Result:** **24,350** unique profiles classified into **4** named audience segments; the top segment (19% of recipients) received 74% of funding.  
 
 [View repository →](https://github.com/QuietSignal-hub/crm-rfm-segmentation)
 </details>
@@ -117,7 +117,7 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 <br>
 
 **Problem:** Predict crash injury severity and find recurring high-risk crash patterns.  
-**Approach:** CatBoost and LightGBM (vs. an SVM baseline), K-means + PCA for crash archetypes, Apriori rules for recurring factors.  
+**Approach:** Team project. My part: IQR outlier cleaning (195,092 → 182,237 rows), EDA, an SVM classifier, and K-means crash archetypes. Caught a capitalization bug that had split 5 severity levels into 10 classes.  
 **Result:** Crash archetypes by time, location, and conditions, plus targeted road safety recommendations.  
 
 [View repository →](https://github.com/QuietSignal-hub/Traffic-Crash-Analysis-ML)
@@ -153,7 +153,7 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 
 **Programming & Visualization** &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-1C3F75?style=flat-square" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-1C3F75?style=flat-square" alt="Seaborn"/>
 
-**Machine Learning & Statistics** &nbsp; <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/XGBoost-1C3F75?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/CatBoost-1C3F75?style=flat-square" alt="CatBoost"/> <img src="https://img.shields.io/badge/LightGBM-1C3F75?style=flat-square" alt="LightGBM"/> <img src="https://img.shields.io/badge/Random%20Forest-1C3F75?style=flat-square" alt="Random Forest"/> <img src="https://img.shields.io/badge/Logistic%20Regression-1C3F75?style=flat-square" alt="Logistic Regression"/> <img src="https://img.shields.io/badge/K--means%20%C2%B7%20PCA-1C3F75?style=flat-square" alt="K-means · PCA"/> <img src="https://img.shields.io/badge/SMOTE-1C3F75?style=flat-square" alt="SMOTE"/> <img src="https://img.shields.io/badge/ARIMA%20%C2%B7%20GLM-1C3F75?style=flat-square" alt="ARIMA · GLM"/> <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-1C3F75?style=flat-square" alt="Time Series Forecasting"/>
+**Machine Learning & Statistics** &nbsp; <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/XGBoost-1C3F75?style=flat-square" alt="XGBoost"/> <img src="https://img.shields.io/badge/Random%20Forest-1C3F75?style=flat-square" alt="Random Forest"/> <img src="https://img.shields.io/badge/Logistic%20Regression-1C3F75?style=flat-square" alt="Logistic Regression"/> <img src="https://img.shields.io/badge/SVM-1C3F75?style=flat-square" alt="SVM"/> <img src="https://img.shields.io/badge/K--means%20%C2%B7%20PCA-1C3F75?style=flat-square" alt="K-means · PCA"/> <img src="https://img.shields.io/badge/SMOTE-1C3F75?style=flat-square" alt="SMOTE"/> <img src="https://img.shields.io/badge/ARIMA%20%C2%B7%20GLM-1C3F75?style=flat-square" alt="ARIMA · GLM"/> <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-1C3F75?style=flat-square" alt="Time Series Forecasting"/> <img src="https://img.shields.io/badge/RFM%20Segmentation-1C3F75?style=flat-square" alt="RFM Segmentation"/>
 
 **Data Engineering** &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/Star%20Schema-2A7FA8?style=flat-square" alt="Star Schema"/> <img src="https://img.shields.io/badge/Data%20Warehousing-2A7FA8?style=flat-square" alt="Data Warehousing"/> <img src="https://img.shields.io/badge/ETL%20Pipelines-2A7FA8?style=flat-square" alt="ETL Pipelines"/> <img src="https://img.shields.io/badge/Data%20Validation-2A7FA8?style=flat-square" alt="Data Validation"/>
 
@@ -191,7 +191,7 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 
 ### 📬 Connect
 
-<a href="https://www.linkedin.com/in/jayeshp-242e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:jayeshp7970@gmail.com"><img src="https://img.shields.io/badge/Email-0E2E5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/QuietSignal-hub?tab=repositories"><img src="https://img.shields.io/badge/Projects-1C3F75?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="https://www.linkedin.com/in/jayeshp-242e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:jayeshp7970@gmail.com"><img src="https://img.shields.io/badge/Email-0E2E5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/QuietSignal-hub?tab=repositories"><img src="https://img.shields.io/badge/Projects-1C3F75?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a> <img src="https://komarev.com/ghpvc/?username=QuietSignal-hub&label=Profile%20views&color=1C3F75&style=for-the-badge" alt="Profile views"/>
 
 <sub>Open to Data Analyst · Business Analyst · BI Analyst · Supply Chain / Operations Analyst roles</sub>
 

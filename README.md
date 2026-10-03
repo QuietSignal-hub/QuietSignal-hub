@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EC8E6&center=true&vCenter=true&width=620&lines=Data%20%26%20Business%20Analyst;BI%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau;Supply%20Chain%20%26%20Operations%20Analytics;Turning%20messy%20data%20into%20decisions" alt="Typing intro"/>
 
+<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badge/Portfolio-jayesh--patil.com-1C3F75?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: jayesh-patil.com"/></a>
+
 </div>
 
 ---
@@ -12,6 +14,7 @@
 
 I turn messy operational data into dashboards, forecasts, and decisions. I bring two lenses to every problem: an analyst's and an operator's, so I start with what the business needs to decide.
 
+- 🌐 **Portfolio:** [jayesh-patil.com](https://jayesh-patil.com)
 - 🏅 **Lean Six Sigma Green Belt**
 - 💼 Previously **Analytics Software Engineering Intern @ Dottir Labs**: reporting requirements and an automated pipeline across 40+ datasets, plus a self-service KPI dashboard
 - **Logistics analytics**: forecast Suez Canal shipping traffic in Power BI and mapped alternate routes from port coordinates
@@ -83,6 +86,7 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
   core_stack: SQL, Power BI, Tableau, Python, R, Excel
    strengths: Requirements gathering, KPI reporting, Forecasting, Process improvement
      domains: Logistics, Healthcare, Operations, Public safety data
+   portfolio: https://jayesh-patil.com
 ```
 
 ---
@@ -191,7 +195,7 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 
 ### 📬 Connect
 
-<a href="https://www.linkedin.com/in/jayeshp-242e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:jayeshp7970@gmail.com"><img src="https://img.shields.io/badge/Email-0E2E5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/QuietSignal-hub?tab=repositories"><img src="https://img.shields.io/badge/Projects-1C3F75?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a> <img src="https://komarev.com/ghpvc/?username=QuietSignal-hub&label=Profile%20views&color=1C3F75&style=for-the-badge" alt="Profile views"/>
+<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badge/Portfolio-5EC8E6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/jayeshp-242e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:jayeshp7970@gmail.com"><img src="https://img.shields.io/badge/Email-0E2E5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/QuietSignal-hub?tab=repositories"><img src="https://img.shields.io/badge/Projects-1C3F75?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a> <img src="https://komarev.com/ghpvc/?username=QuietSignal-hub&label=Profile%20views&color=1C3F75&style=for-the-badge" alt="Profile views"/>
 
 <sub>Open to Data Analyst · Business Analyst · BI Analyst · Supply Chain / Operations Analyst roles</sub>
 

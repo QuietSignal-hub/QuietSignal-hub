@@ -165,7 +165,7 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 
 **Operations & Supply Chain** &nbsp; <img src="https://img.shields.io/badge/Demand%20Planning-0E2E5C?style=flat-square" alt="Demand Planning"/> <img src="https://img.shields.io/badge/Forecasting-0E2E5C?style=flat-square" alt="Forecasting"/> <img src="https://img.shields.io/badge/Process%20Optimization-0E2E5C?style=flat-square" alt="Process Optimization"/> <img src="https://img.shields.io/badge/Cost%20%26%20Variance%20Analysis-0E2E5C?style=flat-square" alt="Cost & Variance Analysis"/> <img src="https://img.shields.io/badge/Lean%20Six%20Sigma%20Green%20Belt-0E2E5C?style=flat-square" alt="Lean Six Sigma Green Belt"/>
 
-**Tools** &nbsp; <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+**Tools** &nbsp; <img src="https://img.shields.io/badge/Julia-0052CC?style=flat-square&logo=julia&logoColor=white" alt="Julia"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab"/>
 
 ---
 

@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EC8E6&center=true&vCenter=true&width=620&lines=Data%20%26%20Business%20Analyst;BI%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau;Supply%20Chain%20%26%20Operations%20Analytics;Turning%20messy%20data%20into%20decisions" alt="Typing intro"/>
 
-<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badxge/Portfolio-jayesh--patil.com-1C3F75?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: jayesh-patil.com"/></a>
+<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badge/Portfolio-jayesh--patil.com-1C3F75?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: jayesh-patil.com"/></a>
 
 </div>
 

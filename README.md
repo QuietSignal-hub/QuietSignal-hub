@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5EC8E6&center=true&vCenter=true&width=620&lines=Data%20%26%20Business%20Analyst;BI%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau;Supply%20Chain%20%26%20Operations%20Analytics;Turning%20messy%20data%20into%20decisions" alt="Typing intro"/>
 
-<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badge/Portfolio-jayesh--patil.com-1C3F75?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: jayesh-patil.com"/></a>
+<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badge/Portfolio-jayesh--patil.com-1C3F75?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D" alt="Portfolio: jayesh-patil.com"/></a>
 
 </div>
 
@@ -195,7 +195,7 @@ target_roles: Data Analyst, Business Analyst, BI Analyst, Supply Chain Analyst
 
 ### 📬 Connect
 
-<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badge/Portfolio-5EC8E6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/jayeshp-242e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:jayeshp7970@gmail.com"><img src="https://img.shields.io/badge/Email-0E2E5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/QuietSignal-hub?tab=repositories"><img src="https://img.shields.io/badge/Projects-1C3F75?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a> <img src="https://gitviews.com/user/QuietSignal-hub.svg?style=for-the-badge&label=Profile%20views&label-color=%230E2E5C&color=%231C3F75" alt="Profile views"/>
+<a href="https://jayesh-patil.com"><img src="https://img.shields.io/badge/Portfolio-5EC8E6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/jayeshp-242e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:jayeshp7970@gmail.com"><img src="https://img.shields.io/badge/Email-0E2E5C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/QuietSignal-hub?tab=repositories"><img src="https://img.shields.io/badge/Projects-1C3F75?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a> <img src="https://gitviews.com/user/QuietSignal-hub.svg?style=for-the-badge&label=Profile%20views&label-color=%230E2E5C&color=%231C3F75" alt="Profile views"/>
 
 <sub>Open to Data Analyst · Business Analyst · BI Analyst · Supply Chain / Operations Analyst roles</sub>
 
